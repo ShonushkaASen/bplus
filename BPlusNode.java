@@ -244,6 +244,7 @@ abstract class BPlusNode {
 
     // Serialization /////////////////////////////////////////////////////////////
     /** n.toBytes() serializes n. */
+    //>:)
     public abstract byte[] toBytes();
 
     /**
